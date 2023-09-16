@@ -15,6 +15,26 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Try it online:
 [Rust Playground](https://play.rust-lang.org/)
 
+### Roadmap
+
+# Enviroment
+- [x] Instalation
+- [x] Cargo init/ run
+- [x] Visual Studio Code
+# Variables
+- [x] Primitive types
+
+# Conditional
+- [ ] If/else
+- [ ] Switch
+# Loops
+- [ ] While
+- [ ] For
+- [ ] While
+
+# Files
+- [ ] Reading
+- [ ] Writing
 ## References
 
 
