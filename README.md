@@ -21,6 +21,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - [x] Instalation
 - [x] Cargo init/ run
 - [x] Visual Studio Code
+- [x] RustRover jetbrains
 # Variables
 - [x] Primitive types
 
