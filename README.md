@@ -15,25 +15,25 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Try it online:
 [Rust Playground](https://play.rust-lang.org/)
 
-### Roadmap
+# Roadmap
 
-# Enviroment
+### Enviroment
 - [x] Instalation
 - [x] Cargo init/ run
 - [x] Visual Studio Code
 - [x] RustRover jetbrains
-# Variables
+### Variables
 - [x] Primitive types
 
-# Conditional
-- [ ] If/else
+### Conditional
+- [x] If/else
 - [ ] Switch
-# Loops
+### Loops
+- [x] For
 - [ ] While
-- [ ] For
-- [ ] While
+- [ ] Loop
 
-# In/out
+### In/out
 - [ ] Reading from inputs (console input)
 - [ ] Writing to outupt (console)
 - [ ] Reading from files
@@ -50,3 +50,4 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - [Linguagem Rust: tirando a ferrugem](https://paulohrpinheiro.xyz/texts/rust/2016-03-02-tirando-a-ferrugem.html)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Uma breve introdução sobre a linguagem de programação Rust](https://mozillabr.org/2015/05/27/uma-breve-introducao-sobre-a-linguagem-de-programacao-rust/)
+- [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
