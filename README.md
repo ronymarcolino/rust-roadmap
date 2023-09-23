@@ -27,11 +27,11 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### Conditional
 - [x] If/else
-- [ ] Switch
+- [x] Match (switch)
 ### Loops
 - [x] For
-- [ ] While
-- [ ] Loop
+- [x] While
+- [x] Loop
 
 ### In/out
 - [ ] Reading from inputs (console input)
