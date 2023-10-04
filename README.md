@@ -25,6 +25,9 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Variables
 - [x] Primitive types
 
+### Objects
+- [x] Structs
+
 ### Conditional
 - [x] If/else
 - [x] Match (switch)
