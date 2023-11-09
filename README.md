@@ -24,6 +24,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - [x] RustRover jetbrains
 ### Variables
 - [x] Primitive types
+- [x] Data structures - vectors
 
 ### Objects
 - [x] Structs
