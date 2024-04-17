@@ -1,0 +1,2 @@
+"1 - esse é um arquivo de texto linha 1"
+"2 - esse é um arquivo de texto linha 2"
