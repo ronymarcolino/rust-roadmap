@@ -42,8 +42,9 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### In/out
 - [x] Reading from inputs (console input)
 - [x] Writing to outupt (console)
-- [ ] Reading from files
-- [ ] Writing to files
+- [x] Reading from files
+- [x] Writing to files
+
 ## References
 
 
