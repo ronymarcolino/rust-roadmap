@@ -45,6 +45,11 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - [x] Reading from files
 - [x] Writing to files
 
+### Threads
+- [x] Creating and destroying threads
+- []  Creating multiple threads
+- [] Managing multiple threads
+
 ## References
 
 
