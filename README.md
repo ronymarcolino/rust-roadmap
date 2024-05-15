@@ -47,8 +47,8 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### Threads
 - [x] Creating and destroying threads
-- []  Creating multiple threads
-- [] Managing multiple threads
+- [x]  Creating multiple threads
+- [x] Managing multiple threads
 
 ## References
 
