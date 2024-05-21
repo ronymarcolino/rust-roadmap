@@ -30,7 +30,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 | Description    | Youtube |
 | -------- | ------- |
-| [x] Primitive types  | [Link](http://youtube.com)    |
+| [x] Primitive types  | [Link](https://youtu.be/rA-Ow38uNPg)    |
 | [x] Data structures - vectors | [Link](https://youtu.be/H4-cp4RS16o)     |
 
 ### Objects
@@ -45,7 +45,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 | Description    | Youtube |
 | -------- | ------- |
 | [x] If/else  | [Link](http://youtube.com)    |
-| [x] Match (switch) | [Link](http://youtube.com)     |
+| [x] Match (switch) | [Link](https://youtu.be/WZ0ObvS6Ya0)     |
 
 ### Loops
 | Description    | Youtube |
@@ -67,7 +67,7 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 | Description    | Youtube |
 | -------- | ------- |
 | [x] Creating and destroying threads  | [Link](https://youtu.be/I9zsIR1gkG4)    |
-| [x] Creating multiple threads | [Link](http://youtube.com)     |
+| [x] Creating multiple threads | [Link](https://youtu.be/0K0xpydRF5w)     |
 | [x] Managing multiple threads    | [Link](https://youtu.be/0K0xpydRF5w)    |
 
 ### Graphical Interface
