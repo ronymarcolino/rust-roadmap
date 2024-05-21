@@ -18,40 +18,69 @@ $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # Roadmap
 
 ### Enviroment
-- [x] Instalation
-- [x] Cargo init/ run
-- [x] Visual Studio Code
-- [x] RustRover jetbrains
+
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Instalation  | [Link](https://youtu.be/rA-Ow38uNPg)    |
+| [x] Cargo init/ run | [Link](https://youtu.be/rA-Ow38uNPg)     |
+| [x] Visual Studio Code    | [Link](https://youtu.be/rA-Ow38uNPg)    |
+| [x] RustRover jetbrains | [Link](https://youtu.be/NryHxz9sATM) |
+
 ### Variables
-- [x] Primitive types
-- [x] Data structures - vectors
+
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Primitive types  | [Link](http://youtube.com)    |
+| [x] Data structures - vectors | [Link](https://youtu.be/H4-cp4RS16o)     |
 
 ### Objects
-- [x] Structs
-- [x] Heap, stack
-- [x] Getters and Setters
+
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Structs  | [Link](https://youtu.be/H6lneETx9Ak)    |
+| [x] Heap, stack | [Link](https://youtu.be/pMiOyDOqmBQ)     |
+| [x] Getters and Setters    | [Link](https://youtu.be/W576Yw-32wQ)    |
 
 ### Conditional
-- [x] If/else
-- [x] Match (switch)
+| Description    | Youtube |
+| -------- | ------- |
+| [x] If/else  | [Link](http://youtube.com)    |
+| [x] Match (switch) | [Link](http://youtube.com)     |
+
 ### Loops
-- [x] For
-- [x] While
-- [x] Loop
+| Description    | Youtube |
+| -------- | ------- |
+| [x] For  | [Link](https://youtu.be/WZ0ObvS6Ya0)    |
+| [x] While | [Link](https://youtu.be/WZ0ObvS6Ya0)     |
+| [x] Loop    | [Link](https://youtu.be/WZ0ObvS6Ya0)    |
 
 ### In/out
-- [x] Reading from inputs (console input)
-- [x] Writing to outupt (console)
-- [x] Reading from files
-- [x] Writing to files
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Reading from inputs (console input)  | [Link](https://youtu.be/Ixd-Pc38cHw)    |
+| [x] Writing to outupt (console) | [Link](https://youtu.be/Ixd-Pc38cHw)     |
+| [x] Reading from files    | [Link](https://youtu.be/CQ5oYxpWpps)    |
+| [x] Writing to files | [Link](https://youtu.be/CQ5oYxpWpps) |
+| [x] Command line arguments | [Link](https://youtu.be/ScnBS06Gqyg) |
 
 ### Threads
-- [x] Creating and destroying threads
-- [x]  Creating multiple threads
-- [x] Managing multiple threads
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Creating and destroying threads  | [Link](https://youtu.be/I9zsIR1gkG4)    |
+| [x] Creating multiple threads | [Link](http://youtube.com)     |
+| [x] Managing multiple threads    | [Link](https://youtu.be/0K0xpydRF5w)    |
+
+### Graphical Interface
+| Description    | Youtube |
+| -------- | ------- |
+| [ ] Graphical User Interface  | [](https://youtu.be/)    |
+
+### Projects
+| Description    | Youtube |
+| -------- | ------- |
+| [x] Simple Command line application  | [Link](https://youtu.be/ACFGYjqD1lA)    |
 
 ## References
-
 
 - [Rust Documentation](https://doc.rust-lang.org/)
 - [Niko Matsakis | Github](https://github.com/nikomatsakis)
